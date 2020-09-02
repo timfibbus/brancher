@@ -5,6 +5,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("you suck");
 		System.out.println("that is rude.");
+		System.out.println("Happ y wed nesday");
 	}
 
 }
